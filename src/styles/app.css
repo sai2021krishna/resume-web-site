@@ -1,0 +1,4 @@
+@import './themes.css';
+body{
+    background-color: var(--purple1);
+}

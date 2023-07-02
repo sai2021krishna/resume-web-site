@@ -1,0 +1,7 @@
+@import './themes.css';
+body {
+  background-color: var(--purple1);
+  color: var(--basetext);
+  font-family: sans-serif;
+  margin:0 !important;
+}

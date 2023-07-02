@@ -1,0 +1,6 @@
+@import './themes.css';
+.nav-bar{
+    margin: 0;
+    height: 50px;
+    background-color: var(--darkshade) ;
+}
